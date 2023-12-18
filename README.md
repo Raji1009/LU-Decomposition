@@ -48,10 +48,12 @@ print(solution)
 ## Output:
 
 (i) To find the L and U matrix
-![output](image.png)
+![image](https://github.com/Raji1009/LU-Decomposition/assets/89059861/a24931c7-4212-4b92-8601-8f6797e6e7c2)
+
 
 (ii) To find the LU Decomposition of a matrix
-![output](image-1.png)
+![image](https://github.com/Raji1009/LU-Decomposition/assets/89059861/5f751d67-9e0e-42ae-99b0-81743408907f)
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
