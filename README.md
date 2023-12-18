@@ -52,7 +52,8 @@ print(solution)
 
 
 (ii) To find the LU Decomposition of a matrix
-![image](https://github.com/Raji1009/LU-Decomposition/assets/89059861/5f751d67-9e0e-42ae-99b0-81743408907f)
+![image](https://github.com/Raji1009/LU-Decomposition/assets/89059861/1c66dee9-56fe-436c-b492-0499ac19b655)
+
 
 
 ## Result:
